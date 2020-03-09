@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PER\\Pruebas\\slnLinq\\linq\\linq.csproj": {}
+    "D:\\PER\\netcore\\linq\\linqEFCore\\linqEFcore\\linq\\linq.csproj": {}
   },
   "projects": {
-    "D:\\PER\\Pruebas\\slnLinq\\linq\\linq.csproj": {
+    "D:\\PER\\netcore\\linq\\linqEFCore\\linqEFcore\\linq\\linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PER\\Pruebas\\slnLinq\\linq\\linq.csproj",
+        "projectUniqueName": "D:\\PER\\netcore\\linq\\linqEFCore\\linqEFcore\\linq\\linq.csproj",
         "projectName": "linq",
-        "projectPath": "D:\\PER\\Pruebas\\slnLinq\\linq\\linq.csproj",
-        "packagesPath": "C:\\Users\\Noe\\.nuget\\packages\\",
-        "outputPath": "D:\\PER\\Pruebas\\slnLinq\\linq\\obj\\",
+        "projectPath": "D:\\PER\\netcore\\linq\\linqEFCore\\linqEFcore\\linq\\linq.csproj",
+        "packagesPath": "C:\\Users\\noeromero\\.nuget\\packages\\",
+        "outputPath": "D:\\PER\\netcore\\linq\\linqEFCore\\linqEFcore\\linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Noe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\noeromero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

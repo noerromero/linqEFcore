@@ -9,7 +9,12 @@ namespace linq
         {
 
             var insertar = new Insertar();
-            insertar.InsertarEstudiante();
+            var actualizar = new Actualizar();
+            //insertar.InsertarEstudiante();
+
+            //insertar.InsertaListaEstuadiante();
+            //actualizar.ActualizarEstudianteConectado();
+            actualizar.ActualizarEstudianteDesconectado();
 
 
         }
